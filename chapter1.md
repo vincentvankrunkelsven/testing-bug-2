@@ -2,7 +2,7 @@
 title       : Insert the chapter title here
 description : Insert the chapter description here
 attachments :
-  slides_link : https://s3.amazonaws.com/assets.datacamp.com/production/course_3555/slides/chapter1.pdf
+  slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:1ba6d55034
 ## A really bad movie
