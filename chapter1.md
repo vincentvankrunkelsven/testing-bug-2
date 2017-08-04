@@ -39,7 +39,7 @@ msg_success <- "Exactly! There seems to be a very bad action movie in the datase
 test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:dcac48535b
+--- type:NormalExercis lang:r xp:100 skills:1 key:dcac48535b
 ## More movies
 
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
@@ -102,7 +102,7 @@ test_function("str", args = "object",
               not_called_msg = "You didn't call `str()`!",
               incorrect_msg = "You didn't call `str(object = ...)` with the correct argument, `object`.")
 
-test_object("good_moviess")
+test_object("good_movies")
 
 test_function("plot", args = "x")
 test_function("plot", args = "y")
